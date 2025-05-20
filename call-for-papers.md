@@ -1,11 +1,11 @@
-# Call For Paper for PyCon MY 2023
+# Call For Paper for PyCon MY 2025
 
 ## Important Dates
 
-* Submit Date: 03 April 2023
-* Closing Date: 08 May 2023
+* Submit Date: 03 April 2025
+* Closing Date: 08 May 2025
 
-## Speak in PyCon MY 2023
+## Speak in PyCon MY 2025
 
 We want **YOU** in our PyCon.
 
@@ -19,7 +19,7 @@ We believe that sharing knowledge and ideas is the key to growth and innovation.
 
 Join us in this exciting event and be part of the community that drives innovation in Python development!
 
-## Topics for PyCon MY 2023
+## Topics for PyCon MY 2025
 
 We welcome any Python related topics for the conference.
 Here's a list of suggestions as a starter, but creative topics are extra welcomed.
